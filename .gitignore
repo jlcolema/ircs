@@ -1,2 +1,4 @@
 .DS_Store
-Art
+*.nova
+*.code-workspace
+organize/*
